@@ -3,4 +3,4 @@
 	primeraCifra x = read[head(show (abs n)]
 
  main = do
-   print(primeraCifra 225)
+   	print(primeraCifra 225)
